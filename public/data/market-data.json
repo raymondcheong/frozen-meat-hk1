@@ -1,0 +1,134 @@
+{
+  "fehd": {
+    "dataDate": "2026-04-22",
+    "todayPrices": {
+      "highest": 1500,
+      "lowest": 700,
+      "average": 844
+    },
+    "todaySupply": {
+      "mainland": 3234,
+      "local": 167,
+      "total": 3401
+    },
+    "tomorrowForecast": {
+      "mainland": 2856,
+      "local": 100,
+      "total": 2956
+    }
+  },
+  "cme": [
+    {
+      "id": "LE",
+      "name": "活牛期貨",
+      "nameEn": "Live Cattle Futures",
+      "price": 247.63,
+      "unit": "USD/cwt",
+      "change": -3.47,
+      "changePercent": -1.38,
+      "source": "CME Group",
+      "updatedAt": "2026-04-22"
+    },
+    {
+      "id": "GF",
+      "name": "育肥牛期貨",
+      "nameEn": "Feeder Cattle Futures",
+      "price": 367.10,
+      "unit": "USD/cwt",
+      "change": -3.85,
+      "changePercent": -1.04,
+      "source": "CME Group",
+      "updatedAt": "2026-04-22"
+    },
+    {
+      "id": "HE",
+      "name": "瘦肉豬期貨",
+      "nameEn": "Lean Hog Futures",
+      "price": 101.68,
+      "unit": "USD/cwt",
+      "change": -0.28,
+      "changePercent": -0.27,
+      "source": "CME Group",
+      "updatedAt": "2026-04-22"
+    },
+    {
+      "id": "LHI",
+      "name": "瘦肉豬指數",
+      "nameEn": "Lean Hog Index",
+      "price": 90.76,
+      "unit": "USD/cwt",
+      "change": 0.46,
+      "changePercent": 0.51,
+      "source": "CME Group",
+      "updatedAt": "2026-04-22"
+    },
+    {
+      "id": "PCI",
+      "name": "豬肉切塊指數",
+      "nameEn": "Pork Cutout Index",
+      "price": 98.70,
+      "unit": "USD/cwt",
+      "change": 0.55,
+      "changePercent": 0.56,
+      "source": "CME Group",
+      "updatedAt": "2026-04-22"
+    }
+  ],
+  "seafood": [
+    {
+      "id": "fish-global",
+      "name": "全球魚類價格",
+      "nameEn": "Global Fish Price",
+      "price": 9.18,
+      "unit": "USD/kg",
+      "change": 1.05,
+      "changePercent": 12.9,
+      "source": "IMF/FRED",
+      "updatedAt": "2026-Q1"
+    },
+    {
+      "id": "shrimp-ucn",
+      "name": "全球蝦價格指數",
+      "nameEn": "Global Shrimp Index",
+      "price": 3.33,
+      "unit": "USD/kg",
+      "change": -0.21,
+      "changePercent": -5.9,
+      "source": "UCN",
+      "updatedAt": "2026-04"
+    },
+    {
+      "id": "shrimp-ec",
+      "name": "厄瓜多爾蝦價",
+      "nameEn": "Ecuador Shrimp",
+      "price": 5.00,
+      "unit": "USD/kg",
+      "change": -0.20,
+      "changePercent": -3.85,
+      "source": "Food World",
+      "updatedAt": "2026-04"
+    },
+    {
+      "id": "salmon-cn",
+      "name": "中國進口三文魚",
+      "nameEn": "China Import Salmon",
+      "price": 9.60,
+      "unit": "USD/kg",
+      "change": -4.60,
+      "changePercent": -32.39,
+      "source": "Norwegian Seafood Council",
+      "updatedAt": "2026-04"
+    },
+    {
+      "id": "scallop-usa",
+      "name": "美國海扇貝",
+      "nameEn": "US Sea Scallops",
+      "price": 18.75,
+      "unit": "USD/lb",
+      "change": -0.50,
+      "changePercent": -2.60,
+      "source": "Urner Barry",
+      "updatedAt": "2026-04"
+    }
+  ]
+}

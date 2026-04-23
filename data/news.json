@@ -1,0 +1,16 @@
+{
+  "news": [],
+  "stats": {
+    "totalArticles": 0,
+    "bySource": {},
+    "byType": {},
+    "byKeyword": {},
+    "byDate": {},
+    "seafoodCount": 0,
+    "meatCount": 0,
+    "last7Days": 0,
+    "last30Days": 0,
+    "topKeywords": [],
+    "lastUpdate": "2026-04-17"
+  }
+}

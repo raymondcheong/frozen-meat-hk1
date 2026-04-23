@@ -1,0 +1,20 @@
+{
+  "dataDate": "2026-04-20",
+  "todaySupply": {
+    "mainland": 3363,
+    "local": 186,
+    "total": 3549
+  },
+  "todayPrices": {
+    "highest": 1130,
+    "lowest": 650,
+    "average": 802
+  },
+  "tomorrowForecast": {
+    "mainland": 2924,
+    "local": 100,
+    "total": 3024
+  },
+  "rawHtml": null,
+  "extractedAt": "2026-04-21T04:14:46.328Z"
+}

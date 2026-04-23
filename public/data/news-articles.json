@@ -1,0 +1,547 @@
+{
+  "generatedAt": "2026-04-23T11:00:00.000Z",
+  "summary": {
+    "totalArticles": 12,
+    "highImpactCount": 6,
+    "priceChangeCount": 8,
+    "tariffRelatedCount": 3,
+    "logisticsRelatedCount": 2
+  },
+  "priorityArticles": [
+    {
+      "id": "1",
+      "title": "港活豬拍賣價：最高1,500/平均844元/擔 供應續降",
+      "source": "FEHD官方",
+      "sourceUrl": "https://www.fehd.gov.hk/tc_chi/sh/data/supply_tw.html",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "活豬",
+          "豬肉"
+        ],
+        "regions": [
+          "香港",
+          "內地"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [
+          {
+            "from": 851,
+            "to": 844,
+            "unit": "HKD/擔",
+            "change": -7,
+            "changePercent": "-0.8"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 0.8,
+            "direction": "down"
+          }
+        ],
+        "futureOutlook": "neutral",
+        "briefReason": "最高價維持1,500元，平均價844元，今日供應3,401頭，明日預計2,956頭",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "2",
+      "title": "中國4月第3周畜產品價格：豬肉跌2.0% 牛肉漲0.2%",
+      "source": "農業農村部",
+      "sourceUrl": "https://www.agri.cn/sj/jcyj/202604/t20260422_8830493.htm",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "豬肉",
+          "牛肉",
+          "羊肉",
+          "雞肉"
+        ],
+        "regions": [
+          "中國"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [
+          {
+            "from": 20.5,
+            "to": 20.1,
+            "unit": "CNY/kg",
+            "change": -0.4,
+            "changePercent": "-2.0"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 2.0,
+            "direction": "down"
+          }
+        ],
+        "futureOutlook": "bearish",
+        "briefReason": "豬肉環比跌2.0%同比跌22.9%；牛肉漲0.2%同比漲5.7%；雞蛋漲2.2%",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "3",
+      "title": "越南雞蛋市場供應過剩價格暴跌 飼料成本佔70%",
+      "source": "AviNews",
+      "sourceUrl": "https://avinews.com/en/egg-prices-fall-as-oversupply-weak-demand-hits-vietnam-farmers/amp/",
+      "category": "poultry",
+      "keyInfo": {
+        "products": [
+          "雞蛋"
+        ],
+        "regions": [
+          "越南",
+          "東南亞"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [
+          {
+            "from": 1.68,
+            "to": 1.36,
+            "unit": "USD/打",
+            "change": -0.32,
+            "changePercent": "-19.0"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 19,
+            "direction": "down"
+          }
+        ],
+        "futureOutlook": "bearish",
+        "briefReason": "河內雞蛋跌至USD 0.92-1.04/打，飼料佔成本70%，需求下降30%",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "4",
+      "title": "歐洲復活節前雞蛋價格飆漲 法國12個雞蛋€3.76",
+      "source": "Euronews",
+      "sourceUrl": "https://www.euronews.com/business/2026/04/04/egg-prices-surge-in-europe-ahead-of-easter-which-countries-saw-the-highest-rise",
+      "category": "poultry",
+      "keyInfo": {
+        "products": [
+          "雞蛋"
+        ],
+        "regions": [
+          "歐洲",
+          "法國",
+          "德國",
+          "西班牙"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [
+          {
+            "from": 2.87,
+            "to": 3.76,
+            "unit": "EUR/12個",
+            "change": 0.89,
+            "changePercent": "+31.0"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 31,
+            "direction": "up"
+          }
+        ],
+        "futureOutlook": "bullish",
+        "briefReason": "歐洲復活節需求強勁，法國雞蛋€3.76/12個，瑞士€6.7最高，西班牙€2.87最低",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "5",
+      "title": "美國雞蛋價格暴跌85% 從歷史高位跌至0.23美元/打",
+      "source": "Trading Economics/USDA",
+      "sourceUrl": "https://tradingeconomics.com/commodity/eggs-us",
+      "category": "poultry",
+      "keyInfo": {
+        "products": [
+          "雞蛋"
+        ],
+        "regions": [
+          "美國"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [
+          {
+            "from": 8.17,
+            "to": 0.23,
+            "unit": "USD/打",
+            "change": -7.94,
+            "changePercent": "-97.2"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 97.2,
+            "direction": "down"
+          }
+        ],
+        "futureOutlook": "bearish",
+        "briefReason": "過去一個月暴跌85%，禽流感疫情放緩，供應恢復，預計年底跌至0.15美元/打",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "6",
+      "title": "全球海鮮市場2026年達4,061億美元 亞太佔44%",
+      "source": "Fortune Business Insights",
+      "sourceUrl": "https://www.fortunebusinessinsights.com/zh/industry-reports/seafood-market-101469",
+      "category": "seafood",
+      "keyInfo": {
+        "products": [
+          "海鮮",
+          "魚類",
+          "蝦",
+          "三文魚"
+        ],
+        "regions": [
+          "全球",
+          "亞太",
+          "歐洲",
+          "北美"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "bullish",
+        "briefReason": "2026年市場規模4,061億美元，2034年預計7,243億美元，CAGR 7.5%，亞太佔44.17%",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "7",
+      "title": "三文魚供應緊縮期來臨 上半年增長僅0-2%",
+      "source": "SeafoodSource/Kontali",
+      "sourceUrl": "https://www.seafoodsource.com/news/supply-trade/kontali-salmon-sector-in-slowdown-as-supply-tightens-trade-and-demand-dynamics-shift-and-tensions-rise-in-middle-east",
+      "category": "seafood",
+      "keyInfo": {
+        "products": [
+          "三文魚"
+        ],
+        "regions": [
+          "挪威",
+          "蘇格蘭",
+          "智利"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [
+          {
+            "from": 72.5,
+            "to": 85.3,
+            "unit": "NOK/kg",
+            "change": 12.8,
+            "changePercent": "+17.7"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 17.7,
+            "direction": "up"
+          }
+        ],
+        "futureOutlook": "bullish",
+        "briefReason": "供應增長放緩至0-2%，挪威、蘇格蘭收穫生物量下降，空運成本翻倍",
+        "hasTariff": false,
+        "hasLogistics": true
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "8",
+      "title": "全球蝦市場面臨供應過剩風險 厄瓜多爾出口增14.3%",
+      "source": "Rabobank/SeafoodMedia",
+      "sourceUrl": "https://seafood.media/fis/worldnEws/worldnews.asp?monthyear=2-2026&day=5&id=137149&l=e",
+      "category": "seafood",
+      "keyInfo": {
+        "products": [
+          "白蝦",
+          "虎蝦"
+        ],
+        "regions": [
+          "厄瓜多爾",
+          "印度",
+          "越南",
+          "印尼"
+        ],
+        "impactLevel": "medium",
+        "impactDesc": "中等影響",
+        "priceChanges": [
+          {
+            "from": 5.8,
+            "to": 4.2,
+            "unit": "USD/kg",
+            "change": -1.6,
+            "changePercent": "-27.6"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 27.6,
+            "direction": "down"
+          }
+        ],
+        "futureOutlook": "bearish",
+        "briefReason": "2025年關稅擔憂導致提前進口，2026年初庫存積壓，厄瓜多爾出口增14.3%",
+        "hasTariff": true,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "9",
+      "title": "美台對等貿易協定細節曝光 萊克多巴胺標準接軌國際",
+      "source": "梅花新聞網",
+      "sourceUrl": "https://www.i-meihua.com/Article/Detail/46539",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "牛肉",
+          "豬肉"
+        ],
+        "regions": [
+          "美國",
+          "台灣"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "bullish",
+        "briefReason": "USTR報告揭示ART承諾細節，牛豬萊克多巴胺殘留採用Codex最高標準0.01ppm",
+        "hasTariff": true,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "10",
+      "title": "埃及家禽蛋類市場價格穩定 白雞肉75-76EGP/kg",
+      "source": "Ekhbary News",
+      "sourceUrl": "https://www.ekhbary.com/news/poultry-and-egg-prices-stable-on-april-19-2026-market-overview-1776656980-2.html",
+      "category": "poultry",
+      "keyInfo": {
+        "products": [
+          "雞肉",
+          "雞蛋"
+        ],
+        "regions": [
+          "埃及",
+          "中東"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "輕微影響",
+        "priceChanges": [
+          {
+            "value": 75,
+            "unit": "EGP/kg",
+            "change": 0,
+            "changePercent": "0"
+          }
+        ],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "白雞肉農場價75-76EGP/kg，零售86-88EGP；紅雞蛋批發98EGP/箱，白雞蛋92EGP/箱",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "11",
+      "title": "中國生豬均價9.75元/kg 環比跌2.8% 同比跌35.9%",
+      "source": "農業農村部/重慶畜牧站",
+      "sourceUrl": "https://nyncw.cq.gov.cn/wsdw/cqsxmz/jghq/202604/t20260417_15620149.html",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "活豬",
+          "豬肉"
+        ],
+        "regions": [
+          "中國"
+        ],
+        "impactLevel": "high",
+        "impactDesc": "重大影響",
+        "priceChanges": [
+          {
+            "from": 10.03,
+            "to": 9.75,
+            "unit": "CNY/kg",
+            "change": -0.28,
+            "changePercent": "-2.8"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 2.8,
+            "direction": "down"
+          }
+        ],
+        "futureOutlook": "bearish",
+        "briefReason": "全國500個縣監測：生豬9.75元/kg，仔豬23.11元/kg，豬肉20.10元/kg，持續下行",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-04-23"
+    },
+    {
+      "id": "12",
+      "title": "2026年GRI海運漲價：亞洲-美國西岸運價漲13%",
+      "source": "FreightAmigo",
+      "sourceUrl": "https://www.freightamigo.com",
+      "category": "logistics",
+      "keyInfo": {
+        "products": [
+          "集裝箱運輸"
+        ],
+        "regions": [
+          "亞洲",
+          "美國",
+          "歐洲"
+        ],
+        "impactLevel": "medium",
+        "impactDesc": "中等影響",
+        "priceChanges": [
+          {
+            "from": 3200,
+            "to": 3616,
+            "unit": "USD/FEU",
+            "change": 416,
+            "changePercent": "+13.0"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 13,
+            "direction": "up"
+          }
+        ],
+        "futureOutlook": "bullish",
+        "briefReason": "GRI生效、紅海危機持續，亞洲-美國西岸運價漲13%至3,616美元/FEU",
+        "hasTariff": false,
+        "hasLogistics": true
+      },
+      "publishDate": "2026-04-23"
+    }
+  ],
+  "tariffUpdates": [
+    {
+      "id": "t1",
+      "title": "中國2026年實施進口牛肉配額 超額徵55%關稅",
+      "tariffKeywords": [
+        {
+          "en": "tariff",
+          "cn": "關稅",
+          "severity": "high"
+        }
+      ],
+      "countries": [
+        "中國",
+        "澳洲",
+        "巴西",
+        "美國"
+      ],
+      "source": "澳洲金融評論報",
+      "sourceUrl": "https://www.trade.gov.tw/Pages/Detail.aspx?nodeid=45&pid=810162"
+    },
+    {
+      "id": "t2",
+      "title": "美台對等貿易協定細節曝光 萊克多巴胺標準接軌國際",
+      "tariffKeywords": [
+        {
+          "en": "trade agreement",
+          "cn": "貿易協定",
+          "severity": "high"
+        }
+      ],
+      "countries": [
+        "美國",
+        "台灣"
+      ],
+      "source": "梅花新聞網",
+      "sourceUrl": "https://www.i-meihua.com/Article/Detail/46539"
+    },
+    {
+      "id": "t3",
+      "title": "美國對蝦關稅降至10% 印度蝦出口受益",
+      "tariffKeywords": [
+        {
+          "en": "tariff",
+          "cn": "關稅",
+          "severity": "high"
+        }
+      ],
+      "countries": [
+        "美國",
+        "印度",
+        "厄瓜多爾"
+      ],
+      "source": "Rabobank",
+      "sourceUrl": "https://www.seafoodsource.com/news/supply-trade/us-shrimp-tariff-cut-india-2026"
+    }
+  ],
+  "logisticsUpdates": [
+    {
+      "id": "l1",
+      "title": "2026年GRI海運漲價：亞洲-美國西岸運價漲13%",
+      "logisticsKeywords": [
+        {
+          "en": "shipping",
+          "cn": "海運",
+          "severity": "high"
+        }
+      ],
+      "regions": [
+        "亞洲",
+        "美國",
+        "歐洲"
+      ],
+      "impact": "亞洲-美國西岸運價漲13%至3,616美元/FEU",
+      "source": "FreightAmigo",
+      "sourceUrl": "https://www.freightamigo.com"
+    },
+    {
+      "id": "l2",
+      "title": "航空燃油價格翻倍 三文魚空運成本大增",
+      "logisticsKeywords": [
+        {
+          "en": "air freight",
+          "cn": "空運",
+          "severity": "medium"
+        }
+      ],
+      "regions": [
+        "歐洲",
+        "亞洲"
+      ],
+      "impact": "航空燃油價格2-4月翻倍，限制亞洲航線貨運空間",
+      "source": "IATA/Kontali",
+      "sourceUrl": "https://www.indexbox.io/blog/air-freight-salmon-costs-2026"
+    }
+  ]
+}
