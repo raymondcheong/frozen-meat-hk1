@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { gsap } from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { TrendingUp, TrendingDown, AlertTriangle, Scale, MapPin, Package, ExternalLink, ArrowUpRight, Minus, Beef, Fish, Globe, Tag, Ship, Fuel, Loader2 } from 'lucide-react';
+import { TrendingUp, Scale, MapPin, Package, ExternalLink, ArrowUpRight, Beef, Fish, Tag, Ship, Fuel, Loader2 } from 'lucide-react';
 
 gsap.registerPlugin(ScrollTrigger);
 
