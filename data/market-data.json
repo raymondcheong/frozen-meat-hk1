@@ -1,0 +1,101 @@
+{
+  "lastUpdated": "2026-04-24T19:53:57.269Z",
+  "hkGov": {
+    "date": "2026-04-24",
+    "pigPrices": {
+      "avg": 771,
+      "high": 1500,
+      "low": 600,
+      "supply": 3470,
+      "forecast": 3500
+    },
+    "source": "https://www.fehd.gov.hk/tc_chi/sh/data/supply_tw.html"
+  },
+  "cme": {
+    "date": "2026-04-24",
+    "futures": [
+      {
+        "symbol": "LE",
+        "name": "活牛期貨",
+        "price": 247.6,
+        "change": -3.47,
+        "changePercent": -1.38
+      },
+      {
+        "symbol": "FCI",
+        "name": "育肥牛指數",
+        "price": 379.09,
+        "change": 3.63,
+        "changePercent": 0.97
+      },
+      {
+        "symbol": "HE",
+        "name": "瘦肉豬期貨",
+        "price": 101.75,
+        "change": -0.2,
+        "changePercent": -0.2
+      },
+      {
+        "symbol": "LHI",
+        "name": "瘦肉豬指數",
+        "price": 90.6,
+        "change": 0.27,
+        "changePercent": 0.3
+      },
+      {
+        "symbol": "PCI",
+        "name": "豬肉切塊指數",
+        "price": 97.83,
+        "change": -0.32,
+        "changePercent": -0.33
+      }
+    ],
+    "source": "https://www.cmegroup.com"
+  },
+  "seafood": {
+    "date": "2026-04-24",
+    "prices": [
+      {
+        "name": "挪威三文魚",
+        "nameEn": "Norway Salmon",
+        "price": 7.51,
+        "change": -16.82
+      },
+      {
+        "name": "全球蝦價格指數",
+        "nameEn": "Global Shrimp Index",
+        "price": 7.19,
+        "change": -3.49
+      },
+      {
+        "name": "智利三文魚",
+        "nameEn": "Chile Salmon",
+        "price": 6.85,
+        "change": 2.24
+      },
+      {
+        "name": "美國藍蟹肉",
+        "nameEn": "US Blue Crab Meat",
+        "price": 28.5,
+        "change": 4.4
+      },
+      {
+        "name": "美國海扇貝",
+        "nameEn": "US Sea Scallops",
+        "price": 18.75,
+        "change": -2.6
+      }
+    ],
+    "source": "https://www.salmonbusiness.com"
+  },
+  "news": {
+    "date": "2026-04-24",
+    "articles": [],
+    "sources": [
+      "https://www.beefcentral.com",
+      "https://www.seafoodsource.com",
+      "https://www.globalmeatnews.com",
+      "https://www.seafoodnews.com"
+    ]
+  }
+}
