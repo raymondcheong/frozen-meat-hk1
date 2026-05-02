@@ -1,7 +1,7 @@
 {
-  "lastUpdated": "2026-05-01T20:05:48.781Z",
+  "lastUpdated": "2026-05-02T19:55:04.980Z",
   "hkGov": {
-    "date": "2026-05-01",
+    "date": "2026-05-02",
     "pigPrices": {
       "avg": 771,
       "high": 1500,
@@ -12,7 +12,7 @@
     "source": "https://www.fehd.gov.hk/tc_chi/sh/data/supply_tw.html"
   },
   "cme": {
-    "date": "2026-05-01",
+    "date": "2026-05-02",
     "futures": [
       {
         "symbol": "LE",
@@ -53,7 +53,7 @@
     "source": "https://www.cmegroup.com"
   },
   "seafood": {
-    "date": "2026-05-01",
+    "date": "2026-05-02",
     "prices": [
       {
         "name": "挪威三文魚",
@@ -89,7 +89,7 @@
     "source": "https://www.salmonbusiness.com"
   },
   "news": {
-    "date": "2026-05-01",
+    "date": "2026-05-02",
     "articles": [],
     "sources": [
       "https://www.beefcentral.com",
