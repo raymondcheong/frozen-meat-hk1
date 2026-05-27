@@ -206,7 +206,7 @@
       "updatedAt": "2026-05-26"
     }
   ],
-  "lastUpdated": "2026-05-27T02:53:22.888Z",
+  "lastUpdated": "2026-05-27T02:56:57.861Z",
   "fehdHistory": [
     {
       "date": "2026-04-03",
@@ -599,7 +599,7 @@
       }
     }
   ],
-  "fehdHistoryUpdatedAt": "2026-05-27T02:53:10.838Z",
+  "fehdHistoryUpdatedAt": "2026-05-27T02:56:45.779Z",
   "mainland": {
     "summary": {
       "weekLabel": "5月第3周畜产品和饲料集贸市场价格情况",
@@ -751,10 +751,10 @@
         "pig": 10.12
       }
     ],
-    "updatedAt": "2026-05-27T02:53:20.904Z"
+    "updatedAt": "2026-05-27T02:56:55.722Z"
   },
   "internationalMeta": {
-    "cmeUpdatedAt": "2026-05-27T02:53:22.888Z",
+    "cmeUpdatedAt": "2026-05-27T02:56:57.861Z",
     "cmeSource": "Stooq delayed · CME livestock futures",
     "seafoodUpdatedAt": "2026-05-27T01:42:56.776Z",
     "seafoodSource": "未更新（需 FRED_API_KEY）"
