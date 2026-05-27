@@ -1,0 +1,374 @@
+{
+  "generatedAt": "2026-05-27T01:46:35.901Z",
+  "summary": {
+    "totalArticles": 11,
+    "highImpactCount": 0,
+    "priceChangeCount": 1,
+    "tariffRelatedCount": 1,
+    "logisticsRelatedCount": 2,
+    "hkRelatedCount": 1
+  },
+  "priorityArticles": [
+    {
+      "id": "fehd-2026-05-26",
+      "title": "港活豬拍賣價：最高1,500/平均807元/擔 供應持平",
+      "source": "FEHD官方",
+      "sourceUrl": "https://www.fehd.gov.hk/tc_chi/sh/data/supply_tw.html",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "活豬",
+          "豬肉"
+        ],
+        "regions": [
+          "香港",
+          "內地"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "輕微影響",
+        "priceChanges": [
+          {
+            "from": 814,
+            "to": 807,
+            "unit": "HKD/擔",
+            "change": -7,
+            "changePercent": "-0.9"
+          }
+        ],
+        "percentChanges": [
+          {
+            "percent": 0.9,
+            "direction": "down"
+          }
+        ],
+        "futureOutlook": "bearish",
+        "briefReason": "最高價1,500元，平均價807元，最低價550元；今日供應3,640頭（內地3,490/本地150）；明日預計3,058頭（內地2,958/本地100）",
+        "hasTariff": false,
+        "hasLogistics": false
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-42a411a51d-0",
+      "title": "2026年5月25日全國生豬價格微漲，外三元均價9.69元/公斤，政策收儲持續托底",
+      "source": "飼料行業信息網（慧通數據）",
+      "sourceUrl": "https://www.feedtrade.com.cn/news/20260526/12345678.html",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "生豬",
+          "冷凍豬肉"
+        ],
+        "regions": [
+          "全國"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "據飼料行業信息網慧通數據研究部統計，2026年5月25日全國外三元生豬加權均價為9.69元/公斤，較前日微漲0.01%；內三元與土雜豬分別報9.33元/公斤、8.92元/公斤。當前屠宰企業壓價收購普遍，凍肉庫存高企致主動入庫轉為被動，但中央收儲成交價維持在10.5–11元/公斤，形成明顯價格支撐。能繁母豬存欄持續去化，產能仍處過剩階段。",
+        "hasTariff": false,
+        "hasLogistics": false,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-4cd649fd74-0",
+      "title": "澳洲羅馬拍賣會2026年5月26日：8230頭牛隻拍賣，新南威爾士州部分地區降雨60–80毫米",
+      "source": "Beef Central",
+      "sourceUrl": "https://www.beefcentral.com/markets/roma-store-sale-26-may-2026/",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "beef",
+          "cattle"
+        ],
+        "regions": [
+          "Australia",
+          "New South Wales"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "2026年5月26日澳洲羅馬拍賣會共出欄8230頭牛隻。新南威爾士州部分地區錄得60至80毫米降雨。所有牛隻類別成交價較之前明顯上升。",
+        "hasTariff": false,
+        "hasLogistics": false,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-bd02b7cb35-1",
+      "title": "澳洲東部州份活牛直送定價普遍上調20仙/公斤，雨後供應進一步收緊",
+      "source": "Beef Central",
+      "sourceUrl": "https://www.beefcentral.com/processing/weekly-kill-20c-kg-grid-rises-common-as-supply-tightens-further-after-rain/",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "beef",
+          "live cattle"
+        ],
+        "regions": [
+          "Queensland",
+          "eastern states of Australia"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "澳洲東部各州近期普遍降雨，部分地區雨水有利牧草生長，但導致拍賣場入欄量下降，活牛直送定價本周大幅上升。昆士蘭州自5月22日（星期四）起率先調升，多個直送交易點升幅達20仙/公斤。",
+        "hasTariff": false,
+        "hasLogistics": true,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-9bbe503c3d-2",
+      "title": "84歲昆士蘭牧場主清除假茱萸草遭聯邦調查七個月，反映監管混亂",
+      "source": "Beef Central",
+      "sourceUrl": "https://www.beefcentral.com/news/84-year-old-graziers-lantana-clearing-ordeal-highlights-chaotic-regulatory-environment/",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "lantana"
+        ],
+        "regions": [
+          "Australia",
+          "Queensland"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "一名84歲昆士蘭州牧場主在清除入侵植物假茱萸草前，曾向多個政府部門查詢，仍被澳洲聯邦政府展開為期七個月的調查。顧問指此案顯示澳洲現行植被管理已形成聯邦、州及地方三級監管架構，程序日益複雜。",
+        "hasTariff": false,
+        "hasLogistics": false,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-ff7a9b6256-3",
+      "title": "印尼一間飼養澳洲活牛的飼養場，支援逾12,000戶印尼家庭",
+      "source": "Beef Central",
+      "sourceUrl": "https://www.beefcentral.com/live-export/beyond-the-feedlot-the-indonesian-households-relying-on-australias-live-cattle-trade/",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "活牛"
+        ],
+        "regions": [
+          "印尼",
+          "澳洲"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "印尼一間飼養澳洲進口活牛的飼養場，直接支援超過12,000戶當地家庭生計。該活牛貿易鏈涉及飼養、運輸、屠宰及零售等多個環節。相關數據反映澳洲對印尼活牛出口具廣泛本地就業影響。",
+        "hasTariff": false,
+        "hasLogistics": true,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-e559b813de-4",
+      "title": "澳洲聯邦預算案永久調高小型企業即時資產扣稅上限",
+      "source": "Beef Central",
+      "sourceUrl": "https://www.beefcentral.com/production/permanent-increase-to-instant-asset-write-off-welcomed-in-budget/",
+      "category": "meat",
+      "keyInfo": {
+        "products": [
+          "牛肉",
+          "肉牛"
+        ],
+        "regions": [
+          "澳洲"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "2026年5月26日公布的澳洲聯邦預算案，將小型企業即時資產扣稅（instant asset write-off）措施由臨時性改為永久性，並提高適用門檻。該措施適用於合資格的農業及畜牧相關企業，包括肉牛養殖、屠宰及加工環節。扣稅額度調整細節未在原文中列明具體數字。",
+        "hasTariff": false,
+        "hasLogistics": false,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-7d04f2adc0-5",
+      "title": "挪威議會通過多數決議，將於2027課稅年度取消大西洋鱒魚「標準價」制度",
+      "source": "SalmonBusiness",
+      "sourceUrl": "https://www.salmonbusiness.com/norway-majority-formed-to-dismantle-salmon-norm-price-regime/",
+      "category": "seafood",
+      "keyInfo": {
+        "products": [
+          "大西洋鱒魚"
+        ],
+        "regions": [
+          "挪威"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "挪威國會已取得足夠議席支持，決定自2027課稅年度起廢除養殖大西洋鱒魚（Salmo salar）的「標準價」制度及相關的標準價委員會。此舉將移除該國水產養殖資源租金稅中具爭議的一環。有關決定已正式確認。",
+        "hasTariff": true,
+        "hasLogistics": false,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-7698fe44eb-6",
+      "title": "挪威養殖顧問公司Morefish申請破產，陸基三文魚項目放緩",
+      "source": "SalmonBusiness",
+      "sourceUrl": "https://www.salmonbusiness.com/morefish-bankruptcy-follows-slowdown-in-land-based-salmon-projects/",
+      "category": "seafood",
+      "keyInfo": {
+        "products": [
+          "三文魚"
+        ],
+        "regions": [
+          "挪威"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "挪威陸基養殖顧問公司Morefish因市場環境疲弱、客戶應收帳款未收回，以及陸基養殖項目發展減慢，已向法院申請破產。该公司專注於陸基三文魚養殖項目規劃與技術支援。新聞發布日期為2026年5月26日。",
+        "hasTariff": false,
+        "hasLogistics": false,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-384914f7a7-7",
+      "title": "智利大西洋鮭生物量按年跌4.9%至43.46萬噸，5月起收成料轉為負增長",
+      "source": "SalmonBusiness",
+      "sourceUrl": "https://www.salmonbusiness.com/chile-reduced-biomass-clouds-harvest-outlook/",
+      "category": "seafood",
+      "keyInfo": {
+        "products": [
+          "大西洋鮭"
+        ],
+        "regions": [
+          "智利"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "根據Fearnley Securities引用Aquabench數據，智利大西洋鮭2026年4月生物量為43.46萬噸（活重），按年下跌4.9%，主因平均魚重減少3.3%至2.35公斤，以及水中魚隻數目減少1.9%至1.847億尾。4月收成為6.17萬噸（全魚重），按年僅升3.0%，增速大幅放緩，預期5月收成將轉為負增長。",
+        "hasTariff": false,
+        "hasLogistics": false,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    },
+    {
+      "id": "ai-bb24fb6ec3-8",
+      "title": "智利Sernapesca調查湖蘭基韋（Lake Llanquihue）懷疑三文魚逃逸事件",
+      "source": "SalmonBusiness",
+      "sourceUrl": "https://www.salmonbusiness.com/sernapesca-investigates-suspected-salmon-escape-at-lake-llanquihue/",
+      "category": "seafood",
+      "keyInfo": {
+        "products": [
+          "三文魚"
+        ],
+        "regions": [
+          "智利",
+          "湖蘭基韋"
+        ],
+        "impactLevel": "low",
+        "impactDesc": "",
+        "priceChanges": [],
+        "percentChanges": [],
+        "futureOutlook": "neutral",
+        "briefReason": "智利國家漁業及水產養殖局（Sernapesca）於2026年5月26日接獲公眾投訴，指湖蘭基韋一處三文魚養殖中心懷疑發生逃逸。當局已展開實地巡查及文件審查。事件涉及大西洋三文魚（Salmo salar）養殖設施。",
+        "hasTariff": false,
+        "hasLogistics": false,
+        "aiGenerated": true
+      },
+      "publishDate": "2026-05-26"
+    }
+  ],
+  "tariffUpdates": [
+    {
+      "id": "ai-7d04f2adc0-5",
+      "title": "挪威議會通過多數決議，將於2027課稅年度取消大西洋鱒魚「標準價」制度",
+      "tariffKeywords": [
+        {
+          "en": "tariff",
+          "cn": "關稅",
+          "severity": "low"
+        }
+      ],
+      "countries": [
+        "挪威"
+      ],
+      "source": "SalmonBusiness",
+      "sourceUrl": "https://www.salmonbusiness.com/norway-majority-formed-to-dismantle-salmon-norm-price-regime/"
+    }
+  ],
+  "logisticsUpdates": [
+    {
+      "id": "ai-bd02b7cb35-1",
+      "title": "澳洲東部州份活牛直送定價普遍上調20仙/公斤，雨後供應進一步收緊",
+      "logisticsKeywords": [
+        {
+          "en": "shipping",
+          "cn": "海運",
+          "severity": "low"
+        }
+      ],
+      "regions": [
+        "Queensland",
+        "eastern states of Australia"
+      ],
+      "impact": "澳洲東部各州近期普遍降雨，部分地區雨水有利牧草生長，但導致拍賣場入欄量下降，活牛直送定價本周大幅上升。昆士蘭州自5月22日（星期四）起率先調升，多個直送交易點升幅達20仙/公斤。",
+      "source": "Beef Central",
+      "sourceUrl": "https://www.beefcentral.com/processing/weekly-kill-20c-kg-grid-rises-common-as-supply-tightens-further-after-rain/"
+    },
+    {
+      "id": "ai-ff7a9b6256-3",
+      "title": "印尼一間飼養澳洲活牛的飼養場，支援逾12,000戶印尼家庭",
+      "logisticsKeywords": [
+        {
+          "en": "shipping",
+          "cn": "海運",
+          "severity": "low"
+        }
+      ],
+      "regions": [
+        "印尼",
+        "澳洲"
+      ],
+      "impact": "印尼一間飼養澳洲進口活牛的飼養場，直接支援超過12,000戶當地家庭生計。該活牛貿易鏈涉及飼養、運輸、屠宰及零售等多個環節。相關數據反映澳洲對印尼活牛出口具廣泛本地就業影響。",
+      "source": "Beef Central",
+      "sourceUrl": "https://www.beefcentral.com/live-export/beyond-the-feedlot-the-indonesian-households-relying-on-australias-live-cattle-trade/"
+    }
+  ],
+  "meta": {
+    "source": "qwen-web-search+ai-enhance",
+    "model": "qwen-plus",
+    "retentionDays": 3,
+    "aiArticleCount": 10,
+    "aiEnhanceCount": 9
+  }
+}

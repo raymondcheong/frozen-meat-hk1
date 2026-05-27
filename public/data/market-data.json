@@ -1,0 +1,762 @@
+{
+  "fehd": {
+    "dataDate": "2026-05-26",
+    "todayPrices": {
+      "highest": 1500,
+      "lowest": 550,
+      "average": 807
+    },
+    "todaySupply": {
+      "mainland": 3490,
+      "local": 150,
+      "total": 3640
+    },
+    "tomorrowForecast": {
+      "mainland": 2958,
+      "local": 100,
+      "total": 3058
+    }
+  },
+  "cme": [
+    {
+      "id": "LE",
+      "name": "活牛期貨",
+      "nameEn": "Live Cattle Futures",
+      "price": 239.6,
+      "unit": "USD/cwt",
+      "change": 0,
+      "changePercent": 0,
+      "source": "CME Group · Stooq 延遲",
+      "updatedAt": "2026-05-22"
+    },
+    {
+      "id": "GF",
+      "name": "育肥牛期貨",
+      "nameEn": "Feeder Cattle Futures",
+      "price": 349.85,
+      "unit": "USD/cwt",
+      "change": 0,
+      "changePercent": 0,
+      "source": "CME Group · Stooq 延遲",
+      "updatedAt": "2026-05-22"
+    },
+    {
+      "id": "HE",
+      "name": "瘦肉豬期貨",
+      "nameEn": "Lean Hog Futures",
+      "price": 100.4,
+      "unit": "USD/cwt",
+      "change": 0,
+      "changePercent": 0,
+      "source": "CME Group · Stooq 延遲",
+      "updatedAt": "2026-05-22"
+    },
+    {
+      "id": "LHI",
+      "name": "瘦肉豬指數",
+      "nameEn": "Lean Hog Index",
+      "price": 89.62,
+      "unit": "USD/cwt",
+      "change": 0,
+      "changePercent": 0,
+      "source": "CME Group · 參考推算",
+      "updatedAt": "2026-05-22"
+    },
+    {
+      "id": "PCI",
+      "name": "豬肉切塊指數",
+      "nameEn": "Pork Cutout Index",
+      "price": 97.46,
+      "unit": "USD/cwt",
+      "change": 0,
+      "changePercent": 0,
+      "source": "CME Group · 參考推算",
+      "updatedAt": "2026-05-22"
+    }
+  ],
+  "seafood": [
+    {
+      "id": "fish-global",
+      "name": "全球魚類價格",
+      "nameEn": "Global Fish Price",
+      "price": 9.29,
+      "unit": "USD/kg",
+      "change": 0,
+      "changePercent": 0.05,
+      "source": "IMF/FRED",
+      "updatedAt": "2026-03"
+    },
+    {
+      "id": "shrimp-ucn",
+      "name": "全球蝦價格指數",
+      "nameEn": "Global Shrimp Index",
+      "price": 7.19,
+      "unit": "USD/kg",
+      "change": 0,
+      "changePercent": 0.05,
+      "source": "IMF/FRED",
+      "updatedAt": "2026-03"
+    },
+    {
+      "id": "shrimp-ec",
+      "name": "厄瓜多爾蝦價",
+      "nameEn": "Ecuador Shrimp",
+      "price": 10.81,
+      "unit": "USD/kg",
+      "change": 0.01,
+      "changePercent": 0.05,
+      "source": "Food World · 按指數推算 · 按指數推算",
+      "updatedAt": "2026-03"
+    },
+    {
+      "id": "salmon-cn",
+      "name": "中國進口三文魚",
+      "nameEn": "China Import Salmon",
+      "price": 9.73,
+      "unit": "USD/kg",
+      "change": 0.01,
+      "changePercent": 0.05,
+      "source": "Norwegian Seafood Council · 按指數推算 · 按指數推算",
+      "updatedAt": "2026-03"
+    },
+    {
+      "id": "scallop-usa",
+      "name": "美國海扇貝",
+      "nameEn": "US Sea Scallops",
+      "price": 18.99,
+      "unit": "USD/lb",
+      "change": 0.01,
+      "changePercent": 0.05,
+      "source": "Urner Barry · 按指數推算 · 按指數推算",
+      "updatedAt": "2026-03"
+    }
+  ],
+  "fehdPrevious": {
+    "dataDate": "2026-05-24",
+    "todayPrices": {
+      "highest": 1500,
+      "lowest": 600,
+      "average": 814
+    },
+    "todaySupply": {
+      "mainland": 3499,
+      "local": 158,
+      "total": 3657
+    },
+    "tomorrowForecast": {
+      "mainland": 3066,
+      "local": 100,
+      "total": 3166
+    }
+  },
+  "hk": [
+    {
+      "id": "hk-pig-high",
+      "name": "活豬最高拍賣價",
+      "nameEn": "Live Pig High Price",
+      "price": 1500,
+      "unit": "HKD/擔",
+      "change": 0,
+      "changePercent": 0,
+      "source": "FEHD",
+      "updatedAt": "2026-05-26"
+    },
+    {
+      "id": "hk-pig-avg",
+      "name": "活豬平均拍賣價",
+      "nameEn": "Live Pig Avg Price",
+      "price": 807,
+      "unit": "HKD/擔",
+      "change": -7,
+      "changePercent": -0.85995085995086,
+      "source": "FEHD",
+      "updatedAt": "2026-05-26"
+    },
+    {
+      "id": "hk-pig-low",
+      "name": "活豬最低拍賣價",
+      "nameEn": "Live Pig Low Price",
+      "price": 550,
+      "unit": "HKD/擔",
+      "change": -50,
+      "changePercent": -8.333333333333332,
+      "source": "FEHD",
+      "updatedAt": "2026-05-26"
+    },
+    {
+      "id": "hk-pig-supply",
+      "name": "今日活豬供應量",
+      "nameEn": "Today's Supply",
+      "price": 3640,
+      "unit": "頭",
+      "change": -17,
+      "changePercent": -0.46486190866830734,
+      "source": "FEHD",
+      "updatedAt": "2026-05-26"
+    },
+    {
+      "id": "hk-pig-forecast",
+      "name": "明日活豬預計供應",
+      "nameEn": "Tomorrow's Forecast",
+      "price": 3058,
+      "unit": "頭",
+      "change": -108,
+      "changePercent": -3.41124447252053,
+      "source": "FEHD",
+      "updatedAt": "2026-05-26"
+    }
+  ],
+  "lastUpdated": "2026-05-27T01:42:56.776Z",
+  "fehdHistory": [
+    {
+      "date": "2026-04-03",
+      "supply": {
+        "mainland": 2282,
+        "local": 103,
+        "total": 2385
+      },
+      "prices": {
+        "highest": 1600,
+        "lowest": 700,
+        "average": 848
+      }
+    },
+    {
+      "date": "2026-04-04",
+      "supply": {
+        "mainland": 2175,
+        "local": 104,
+        "total": 2279
+      },
+      "prices": {
+        "highest": 1600,
+        "lowest": 700,
+        "average": 845
+      }
+    },
+    {
+      "date": "2026-04-05",
+      "supply": {
+        "mainland": 2112,
+        "local": 274,
+        "total": 2386
+      },
+      "prices": {
+        "highest": 1580,
+        "lowest": 700,
+        "average": 860
+      }
+    },
+    {
+      "date": "2026-04-06",
+      "supply": {
+        "mainland": 2489,
+        "local": 126,
+        "total": 2615
+      },
+      "prices": {
+        "highest": 1083,
+        "lowest": 800,
+        "average": 855
+      }
+    },
+    {
+      "date": "2026-04-07",
+      "supply": {
+        "mainland": 2910,
+        "local": 138,
+        "total": 3048
+      },
+      "prices": {
+        "highest": 1480,
+        "lowest": 700,
+        "average": 858
+      }
+    },
+    {
+      "date": "2026-04-08",
+      "supply": {
+        "mainland": 3088,
+        "local": 128,
+        "total": 3216
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 852
+      }
+    },
+    {
+      "date": "2026-04-09",
+      "supply": {
+        "mainland": 2951,
+        "local": 186,
+        "total": 3137
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 861
+      }
+    },
+    {
+      "date": "2026-04-10",
+      "supply": {
+        "mainland": 2968,
+        "local": 230,
+        "total": 3198
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 860
+      }
+    },
+    {
+      "date": "2026-04-11",
+      "supply": {
+        "mainland": 3110,
+        "local": 139,
+        "total": 3249
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 650,
+        "average": 799
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "supply": {
+        "mainland": 3545,
+        "local": 193,
+        "total": 3738
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 650,
+        "average": 794
+      }
+    },
+    {
+      "date": "2026-04-13",
+      "supply": {
+        "mainland": 3275,
+        "local": 216,
+        "total": 3491
+      },
+      "prices": {
+        "highest": 1300,
+        "lowest": 750,
+        "average": 822
+      }
+    },
+    {
+      "date": "2026-04-14",
+      "supply": {
+        "mainland": 3404,
+        "local": 138,
+        "total": 3542
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 650,
+        "average": 790
+      }
+    },
+    {
+      "date": "2026-04-15",
+      "supply": {
+        "mainland": 3311,
+        "local": 135,
+        "total": 3446
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 650,
+        "average": 797
+      }
+    },
+    {
+      "date": "2026-04-16",
+      "supply": {
+        "mainland": 3336,
+        "local": 134,
+        "total": 3470
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 600,
+        "average": 771
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "supply": {
+        "mainland": 3275,
+        "local": 149,
+        "total": 3424
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 550,
+        "average": 763
+      }
+    },
+    {
+      "date": "2026-04-18",
+      "supply": {
+        "mainland": 3188,
+        "local": 142,
+        "total": 3330
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 500,
+        "average": 756
+      }
+    },
+    {
+      "date": "2026-04-19",
+      "supply": {
+        "mainland": 3383,
+        "local": 195,
+        "total": 3578
+      },
+      "prices": {
+        "highest": 1400,
+        "lowest": 750,
+        "average": 813
+      }
+    },
+    {
+      "date": "2026-04-20",
+      "supply": {
+        "mainland": 3363,
+        "local": 186,
+        "total": 3549
+      },
+      "prices": {
+        "highest": 1130,
+        "lowest": 650,
+        "average": 802
+      }
+    },
+    {
+      "date": "2026-04-21",
+      "supply": {
+        "mainland": 3365,
+        "local": 165,
+        "total": 3530
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 851
+      }
+    },
+    {
+      "date": "2026-04-22",
+      "supply": {
+        "mainland": 3234,
+        "local": 167,
+        "total": 3401
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 844
+      }
+    },
+    {
+      "date": "2026-04-23",
+      "supply": {
+        "mainland": 3189,
+        "local": 155,
+        "total": 3344
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 840
+      }
+    },
+    {
+      "date": "2026-04-24",
+      "supply": {
+        "mainland": 3144,
+        "local": 160,
+        "total": 3304
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 840
+      }
+    },
+    {
+      "date": "2026-04-25",
+      "supply": {
+        "mainland": 2911,
+        "local": 345,
+        "total": 3256
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 800,
+        "average": 867
+      }
+    },
+    {
+      "date": "2026-04-26",
+      "supply": {
+        "mainland": 3406,
+        "local": 433,
+        "total": 3839
+      },
+      "prices": {
+        "highest": 1450,
+        "lowest": 800,
+        "average": 867
+      }
+    },
+    {
+      "date": "2026-04-27",
+      "supply": {
+        "mainland": 3300,
+        "local": 286,
+        "total": 3586
+      },
+      "prices": {
+        "highest": 1100,
+        "lowest": 800,
+        "average": 860
+      }
+    },
+    {
+      "date": "2026-04-28",
+      "supply": {
+        "mainland": 3430,
+        "local": 160,
+        "total": 3590
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 837
+      }
+    },
+    {
+      "date": "2026-04-29",
+      "supply": {
+        "mainland": 3199,
+        "local": 159,
+        "total": 3358
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 842
+      }
+    },
+    {
+      "date": "2026-04-30",
+      "supply": {
+        "mainland": 2900,
+        "local": 142,
+        "total": 3042
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 847
+      }
+    },
+    {
+      "date": "2026-05-24",
+      "supply": {
+        "mainland": 3499,
+        "local": 158,
+        "total": 3657
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 600,
+        "average": 814
+      }
+    },
+    {
+      "date": "2026-05-26",
+      "supply": {
+        "mainland": 3490,
+        "local": 150,
+        "total": 3640
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 550,
+        "average": 807
+      }
+    }
+  ],
+  "fehdHistoryUpdatedAt": "2026-05-27T01:42:37.338Z",
+  "mainland": {
+    "summary": {
+      "weekLabel": "5月第3周畜产品和饲料集贸市场价格情况",
+      "dataDate": "2026-05-26",
+      "sourceUrl": "https://xmsyj.moa.gov.cn/jcyj/202605/t20260526_6484455.htm",
+      "monthlyLabel": "2026年4月",
+      "monthlySourceUrl": "https://www.moa.gov.cn/ztzl/szcpxx/jdsj/2026/202604/"
+    },
+    "items": [
+      {
+        "id": "cn-pork-market",
+        "name": "豬肉集貿均價",
+        "nameEn": "",
+        "price": 19.98,
+        "unit": "人民幣/公斤",
+        "change": -0.0802409638554217,
+        "changePercent": -0.4,
+        "source": "每週監測",
+        "updatedAt": "2026-05-26",
+        "meta": {
+          "yoyPercent": 0
+        }
+      },
+      {
+        "id": "cn-beef-market",
+        "name": "牛肉集貿均價",
+        "nameEn": "",
+        "price": 73.28,
+        "unit": "人民幣/公斤",
+        "change": 0.07320679320679321,
+        "changePercent": 0.1,
+        "source": "每週監測",
+        "updatedAt": "2026-05-26",
+        "meta": {
+          "yoyPercent": 0
+        }
+      },
+      {
+        "id": "cn-pig-market",
+        "name": "生豬均價",
+        "nameEn": "",
+        "price": 10.12,
+        "unit": "人民幣/公斤",
+        "change": -0.0406425702811245,
+        "changePercent": -0.4,
+        "source": "每週監測",
+        "updatedAt": "2026-05-26",
+        "meta": {
+          "yoyPercent": 0
+        }
+      },
+      {
+        "id": "cn-pork-wholesale",
+        "name": "白條豬批發價",
+        "nameEn": "",
+        "price": 14.88,
+        "unit": "人民幣/公斤",
+        "change": 0,
+        "changePercent": -8.9,
+        "source": "農業農村部·月度",
+        "updatedAt": "2026年4月",
+        "meta": {
+          "yoyPercent": -28.4,
+          "period": "monthly"
+        }
+      },
+      {
+        "id": "cn-beef-main",
+        "name": "主產省牛肉價",
+        "nameEn": "",
+        "price": 67.79,
+        "unit": "人民幣/公斤",
+        "change": 0,
+        "changePercent": 0,
+        "source": "河北等10省",
+        "updatedAt": "2026-05-26",
+        "meta": {}
+      }
+    ],
+    "history": [
+      {
+        "date": "2026-03-25",
+        "label": "3月第3周",
+        "pork": 22,
+        "beef": 72,
+        "pig": 11.05
+      },
+      {
+        "date": "2026-03-30",
+        "label": "3月第4周",
+        "pork": 21.52,
+        "beef": 72,
+        "pig": 10.68
+      },
+      {
+        "date": "2026-04-08",
+        "label": "4月第1周",
+        "pork": 21.03,
+        "beef": 72.07,
+        "pig": 10.4
+      },
+      {
+        "date": "2026-04-15",
+        "label": "4月第2周",
+        "pork": 20.5,
+        "beef": 72.29,
+        "pig": 10.03
+      },
+      {
+        "date": "2026-04-22",
+        "label": "4月第3周",
+        "pork": 20.1,
+        "beef": 72.44,
+        "pig": 9.75
+      },
+      {
+        "date": "2026-05-09",
+        "label": "4月第5周",
+        "pork": 20.12,
+        "beef": 72.82,
+        "pig": 10.18
+      },
+      {
+        "date": "2026-05-09",
+        "label": "4月第4周",
+        "pork": 20.08,
+        "beef": 72.67,
+        "pig": 10
+      },
+      {
+        "date": "2026-05-14",
+        "label": "5月第1周",
+        "pork": 20.12,
+        "beef": 73.09,
+        "pig": 10.19
+      },
+      {
+        "date": "2026-05-20",
+        "label": "5月第2周",
+        "pork": 20.06,
+        "beef": 73.24,
+        "pig": 10.16
+      },
+      {
+        "date": "2026-05-26",
+        "label": "5月第3周",
+        "pork": 19.98,
+        "beef": 73.28,
+        "pig": 10.12
+      }
+    ],
+    "updatedAt": "2026-05-27T01:42:52.751Z"
+  },
+  "internationalMeta": {
+    "cmeUpdatedAt": "2026-05-27T01:42:56.776Z",
+    "cmeSource": "Stooq delayed · CME livestock futures",
+    "seafoodUpdatedAt": "2026-05-27T01:42:56.776Z",
+    "seafoodSource": "FRED IMF Primary Commodity Prices"
+  }
+}

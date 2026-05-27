@@ -1,0 +1,78 @@
+name: Daily Auto Update
+
+on:
+  schedule:
+    # 每天凌晨 3:00 香港時間 (UTC 19:00)
+    - cron: '0 19 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  update-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run FEHD Scraper
+        run: node scripts/fetch-fehd-data.cjs
+
+      - name: Run Mainland Meat Scraper
+        run: node scripts/fetch-mainland-meat.cjs
+
+      - name: Run International Market (CME + Seafood)
+        env:
+          FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
+        run: node scripts/fetch-international-market.cjs
+
+      - name: Run AI News (Qwen Web Search)
+        env:
+          DASHSCOPE_API_KEY: ${{ secrets.DASHSCOPE_API_KEY }}
+          QWEN_MODEL: qwen-plus
+          AI_NEWS_LIMIT: "10"
+          AI_NEWS_RETENTION_DAYS: "3"
+        run: node scripts/fetch-ai-news.cjs
+
+      - name: Commit data updates
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git add public/data/
+          git diff --staged --quiet || git commit -m "📊 Update market data: $(date +'%Y-%m-%d %H:%M')"
+          git push
+
+      - name: Build Site
+        run: npm run build
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
