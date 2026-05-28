@@ -1,20 +1,20 @@
 {
   "fehd": {
-    "dataDate": "2026-05-27",
+    "dataDate": "2026-05-28",
     "todayPrices": {
       "highest": 1500,
-      "lowest": 500,
-      "average": 817
+      "lowest": 700,
+      "average": 841
     },
     "todaySupply": {
-      "mainland": 3263,
-      "local": 138,
-      "total": 3401
+      "mainland": 3161,
+      "local": 140,
+      "total": 3301
     },
     "tomorrowForecast": {
-      "mainland": 2952,
+      "mainland": 2856,
       "local": 100,
-      "total": 3052
+      "total": 2956
     }
   },
   "cme": [
@@ -22,56 +22,56 @@
       "id": "LE",
       "name": "活牛期貨",
       "nameEn": "Live Cattle Futures",
-      "price": 239.15,
+      "price": 242.5,
       "unit": "USD/cwt",
-      "change": -0.45,
-      "changePercent": -0.19,
+      "change": 3.35,
+      "changePercent": 1.4,
       "source": "CME Group · Stooq 延遲",
-      "updatedAt": "2026-05-26"
+      "updatedAt": "2026-05-27"
     },
     {
       "id": "GF",
       "name": "育肥牛期貨",
       "nameEn": "Feeder Cattle Futures",
-      "price": 349.45,
+      "price": 354.63,
       "unit": "USD/cwt",
-      "change": -0.4,
-      "changePercent": -0.11,
+      "change": 5.18,
+      "changePercent": 1.48,
       "source": "CME Group · Stooq 延遲",
-      "updatedAt": "2026-05-26"
+      "updatedAt": "2026-05-27"
     },
     {
       "id": "HE",
       "name": "瘦肉豬期貨",
       "nameEn": "Lean Hog Futures",
-      "price": 100.13,
+      "price": 102.13,
       "unit": "USD/cwt",
-      "change": -0.28,
-      "changePercent": -0.27,
+      "change": 2,
+      "changePercent": 1.99,
       "source": "CME Group · Stooq 延遲",
-      "updatedAt": "2026-05-26"
+      "updatedAt": "2026-05-27"
     },
     {
       "id": "LHI",
       "name": "瘦肉豬指數",
       "nameEn": "Lean Hog Index",
-      "price": 89.38,
+      "price": 91.17,
       "unit": "USD/cwt",
-      "change": -0.24,
-      "changePercent": -0.27,
+      "change": 1.79,
+      "changePercent": 2,
       "source": "CME Group · 參考推算",
-      "updatedAt": "2026-05-26"
+      "updatedAt": "2026-05-27"
     },
     {
       "id": "PCI",
       "name": "豬肉切塊指數",
       "nameEn": "Pork Cutout Index",
-      "price": 97.2,
+      "price": 99.14,
       "unit": "USD/cwt",
-      "change": -0.26,
-      "changePercent": -0.27,
+      "change": 1.94,
+      "changePercent": 2,
       "source": "CME Group · 參考推算",
-      "updatedAt": "2026-05-26"
+      "updatedAt": "2026-05-27"
     }
   ],
   "seafood": [
@@ -132,21 +132,21 @@
     }
   ],
   "fehdPrevious": {
-    "dataDate": "2026-05-26",
+    "dataDate": "2026-05-27",
     "todayPrices": {
       "highest": 1500,
-      "lowest": 550,
-      "average": 807
+      "lowest": 500,
+      "average": 817
     },
     "todaySupply": {
-      "mainland": 3490,
-      "local": 150,
-      "total": 3640
+      "mainland": 3263,
+      "local": 138,
+      "total": 3401
     },
     "tomorrowForecast": {
-      "mainland": 2958,
+      "mainland": 2952,
       "local": 100,
-      "total": 3058
+      "total": 3052
     }
   },
   "hk": [
@@ -159,68 +159,55 @@
       "change": 0,
       "changePercent": 0,
       "source": "FEHD",
-      "updatedAt": "2026-05-27"
+      "updatedAt": "2026-05-28"
     },
     {
       "id": "hk-pig-avg",
       "name": "活豬平均拍賣價",
       "nameEn": "Live Pig Avg Price",
-      "price": 817,
+      "price": 841,
       "unit": "HKD/擔",
-      "change": 10,
-      "changePercent": 1.2391573729863694,
+      "change": 24,
+      "changePercent": 2.937576499388005,
       "source": "FEHD",
-      "updatedAt": "2026-05-27"
+      "updatedAt": "2026-05-28"
     },
     {
       "id": "hk-pig-low",
       "name": "活豬最低拍賣價",
       "nameEn": "Live Pig Low Price",
-      "price": 500,
+      "price": 700,
       "unit": "HKD/擔",
-      "change": -50,
-      "changePercent": -9.090909090909092,
+      "change": 200,
+      "changePercent": 40,
       "source": "FEHD",
-      "updatedAt": "2026-05-27"
+      "updatedAt": "2026-05-28"
     },
     {
       "id": "hk-pig-supply",
       "name": "今日活豬供應量",
       "nameEn": "Today's Supply",
-      "price": 3401,
+      "price": 3301,
       "unit": "頭",
-      "change": -239,
-      "changePercent": -6.565934065934067,
+      "change": -100,
+      "changePercent": -2.9403116730373418,
       "source": "FEHD",
-      "updatedAt": "2026-05-27"
+      "updatedAt": "2026-05-28"
     },
     {
       "id": "hk-pig-forecast",
       "name": "明日活豬預計供應",
       "nameEn": "Tomorrow's Forecast",
-      "price": 3052,
+      "price": 2956,
       "unit": "頭",
-      "change": -6,
-      "changePercent": -0.1962066710268149,
+      "change": -96,
+      "changePercent": -3.1454783748361725,
       "source": "FEHD",
-      "updatedAt": "2026-05-27"
+      "updatedAt": "2026-05-28"
     }
   ],
-  "lastUpdated": "2026-05-27T21:03:01.270Z",
+  "lastUpdated": "2026-05-28T21:09:59.054Z",
   "fehdHistory": [
-    {
-      "date": "2026-04-04",
-      "supply": {
-        "mainland": 2175,
-        "local": 104,
-        "total": 2279
-      },
-      "prices": {
-        "highest": 1600,
-        "lowest": 700,
-        "average": 845
-      }
-    },
     {
       "date": "2026-04-05",
       "supply": {
@@ -597,9 +584,22 @@
         "lowest": 500,
         "average": 817
       }
+    },
+    {
+      "date": "2026-05-28",
+      "supply": {
+        "mainland": 3161,
+        "local": 140,
+        "total": 3301
+      },
+      "prices": {
+        "highest": 1500,
+        "lowest": 700,
+        "average": 841
+      }
     }
   ],
-  "fehdHistoryUpdatedAt": "2026-05-27T21:02:45.343Z",
+  "fehdHistoryUpdatedAt": "2026-05-28T21:09:46.091Z",
   "mainland": {
     "summary": {
       "weekLabel": "5月第3周畜产品和饲料集贸市场价格情况",
@@ -751,10 +751,10 @@
         "pig": 10.12
       }
     ],
-    "updatedAt": "2026-05-27T21:02:59.206Z"
+    "updatedAt": "2026-05-28T21:09:57.013Z"
   },
   "internationalMeta": {
-    "cmeUpdatedAt": "2026-05-27T21:03:01.270Z",
+    "cmeUpdatedAt": "2026-05-28T21:09:59.054Z",
     "cmeSource": "Stooq delayed · CME livestock futures",
     "seafoodUpdatedAt": "2026-05-27T01:42:56.776Z",
     "seafoodSource": "未更新（需 FRED_API_KEY）"
